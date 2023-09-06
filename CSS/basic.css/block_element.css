@@ -1,0 +1,28 @@
+.div1{
+    /* background-color:#ff8400; */
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 20px;
+    display: inline-block;
+
+  background-color: rgba(255, 0,0 ,.3);
+}
+.div2{
+    /* background-color: wheat; */
+height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 20px;
+    /* visibility: hidden; */
+    background-color: rgba(59, 194, 17, 1);
+}
+.div3{
+    /* background-color: green; */
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 20px;
+    display: inline-block;
+    background-color: rgba(100, 200, 250, .8);
+}

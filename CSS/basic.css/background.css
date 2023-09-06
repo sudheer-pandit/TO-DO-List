@@ -1,0 +1,46 @@
+.box1
+{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+
+    
+}
+.box2
+{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: wheat;
+    
+}
+.box3
+{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: wheat;
+    background-image: url(sudheer\ pic.jpeg);
+    background-size: cover;
+
+    
+}
+.box2
+{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color:greenyellow;
+    
+}.box4
+{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    
+}
+div{
+    display: inline-block;
+}
